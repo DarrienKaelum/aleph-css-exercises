@@ -1,0 +1,19 @@
+.a-class {
+  background-color: pink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.chad {
+  font-size: 24px;
+}
+
+#blu-id {
+  color: blue;
+  font-size: 36px;
+}
+
+#green-id {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
